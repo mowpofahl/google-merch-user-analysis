@@ -12,5 +12,5 @@ Data: Google GA4 Obfuscated Sample Dataset · November 2020 – January 2021
 
 Links:
 
-🔗 Portfolio case study: [coming soon]
-📊 Tableau dashboard: [coming soon]
+Portfolio case study: [coming soon]
+Tableau dashboard: [coming soon]
